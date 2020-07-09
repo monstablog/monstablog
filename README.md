@@ -4,7 +4,6 @@ I am a Laravel and Adonis Js Developer.
 
 - 🔭 I’m currently working on a forum developed with both Laravel and Adonis Js
 
-- ⚡ Fun fact: I have a project in both Laravel and Adonis JS
 
 <!--
 **monstablog/monstablog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
